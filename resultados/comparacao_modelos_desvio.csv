@@ -1,0 +1,4 @@
+﻿modelo,nos,arestas,grau_medio,densidade,clustering,average_path_length,diametro,componentes,maior_componente
+Barabási–Albert,0.0,0.0,0.0,0.0,0.004288540665823096,0.002289871693073036,0.0,0.0,0.0
+Erdős–Rényi,0.0,0.0,0.0,0.0,0.0008459086737909935,0.0007228491715821616,0.0,0.0,0.0
+Watts–Strogatz,0.0,0.0,0.0,0.0,0.006325657383246994,0.01010671988917831,0.0,0.0,0.0

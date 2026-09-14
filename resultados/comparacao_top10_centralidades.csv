@@ -1,0 +1,11 @@
+﻿centralidade_1,centralidade_2,quantidade_em_comum_top_10
+degree_centrality,closeness,3
+degree_centrality,betweenness,7
+degree_centrality,eigenvector_centrality,6
+degree_centrality,pagerank,1
+closeness,betweenness,4
+closeness,eigenvector_centrality,4
+closeness,pagerank,7
+betweenness,eigenvector_centrality,6
+betweenness,pagerank,2
+eigenvector_centrality,pagerank,3

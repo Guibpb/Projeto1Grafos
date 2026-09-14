@@ -1,0 +1,15 @@
+COMPARAÇÃO DA REDE DA WIKIPÉDIA COM MODELOS CLÁSSICOS
+======================================================================
+
+A rede real foi convertida de direcionada para não direcionada para a comparação.
+
+Rede real: n=397, m=7200, grau médio=36.272040
+ER: G(n,m), n=397, m=7200
+WS: n=397, k=36, p=0.1, arestas=7146
+BA: n=397, m=18, arestas=6975
+
+MODELO MAIS PRÓXIMO DA REDE REAL
+Clustering: Watts–Strogatz
+Average path length: Erdős–Rényi
+Grau médio: Erdős–Rényi
+Diâmetro: Barabási–Albert

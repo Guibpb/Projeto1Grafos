@@ -1,0 +1,16 @@
+ANÁLISE DA REDE DA WIKIPÉDIA
+============================================================
+
+numero_nos: 397
+numero_arestas: 9246
+grau_medio_total: 46.579345
+grau_medio_entrada: 23.289673
+grau_medio_saida: 23.289673
+densidade: 0.058812
+clustering_coefficient_medio: 0.460072
+average_path_length_maior_componente: 1.908455
+diametro_maior_componente: 2
+componentes_conexos: 1
+maior_componente_conexa_nos: 397
+componentes_fortemente_conexos: 84
+maior_componente_fortemente_conexa_nos: 314
