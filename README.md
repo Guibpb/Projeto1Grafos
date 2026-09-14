@@ -27,6 +27,8 @@ Foi definido um limite de 500 nós. A coleta resultou em uma rede com **397 nós
 ├── analise.py
 ├── modelos.py
 ├── rede_wikipedia.json
+├── exporta_gephi.py
+├── Visualizacao.png
 ├── resultados/
 │   ├── metricas.txt
 │   ├── centralidades.csv
